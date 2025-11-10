@@ -10,7 +10,7 @@ Permette di caricare libri da file CSV, visualizzare il catalogo e gestire i pre
 
 \## Funzionalità attuali
 
-\- Caricamento libri da `data/libri.csv`
+\- Caricamento libri da `data/libri.csv` (in futuro JSON)
 
 \- Visualizzazione catalogo libri
 
@@ -38,6 +38,8 @@ In roadmap ci sono:
 \- \[ ] Ricerca dettagli utente per ID
 
 \- \[ ] Restituzione libri e storico prestiti
+
+\- \[ ] Sostituzione databse con JSON.
 
 
 ---
