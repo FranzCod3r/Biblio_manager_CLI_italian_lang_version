@@ -18,6 +18,8 @@ Permette di caricare libri da file CSV, visualizzare il catalogo e gestire i pre
 
 \- Aggiornamento automatico del CSV dopo un prestito
 
+\- 2 unit tests eseguibili: 1 per models e 1 per verifica di salvataggio e caricamento CSV.
+
 
 ---
 
